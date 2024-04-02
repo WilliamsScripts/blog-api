@@ -1,5 +1,6 @@
 const winston = require('winston');
-const Post = require('../models/posts')
+const Post = require('../models/posts');
+const Category = require('../../categories/models/category');
 
 const seedPosts = [
   {
@@ -46,7 +47,14 @@ const seedPosts = [
 
 const seedDB = async () => {
   await Post.deleteMany()
-  await Post.insertMany(seedPosts)
+  const categories = Category.find()
+  console.log(categories)
+  return
+  const seedPostsWithCategories = seedPosts.map(post => {
+    const randomCategory = categories[Math.floor(Math.random() * categories.length)];
+    return { category_id: randomCategory._id, ...post }; 
+  });
+  await Post.insertMany(seedPostsWithCategories)
 }
 
 seedDB()
@@ -54,7 +62,7 @@ seedDB()
     winston.info('Posts seeded successfully');
   })
   .catch(err => {
-    winston.error('Error while seeding posts:', err);
+    winston.error('Error while seeding posts: ', err);
   })
 
 module.exports = seedDB

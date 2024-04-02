@@ -24,18 +24,16 @@ describe('Post Controller', () => {
       await closeDbConnection()
     })
     it("should get all post successfully", async () => {
-        const expectedDataFromDatabase = [
-          {_id: 1, title: 'The boy man a post last week', body: 'The body who man a post last week', createdAt: '', updatedAt: ''},
-          {_id: 1, title: 'The boy man a post last week', body: 'The body who man a post last week', createdAt: '', updatedAt: ''},
-          {_id: 1, title: 'The boy man a post last week', body: 'The body who man a post last week', createdAt: '', updatedAt: ''}
-        ]
-        const getAllPostServiceStub = sinon.stub(postService, 'getAllPost').resolves(expectedDataFromDatabase);
-        const posts = await postsController.list(req, res);
-        chai.expect(posts).deeply.eql(expectedDataFromDatabase);
+      const expectedDataFromDatabase = [
+        {_id: 1, title: 'The boy man a post last week', body: 'The body who man a post last week', createdAt: '', updatedAt: ''},
+        {_id: 2, title: 'The boy man a post last week', body: 'The body who man a post last week', createdAt: '', updatedAt: ''},
+        {_id: 3, title: 'The boy man a post last week', body: 'The body who man a post last week', createdAt: '', updatedAt: ''}
+      ]
+      const getAllPostServiceStub = sinon.stub(postService, 'getAllPost').resolves(expectedDataFromDatabase);
+      const posts = await postsController.list(req, res);
+      chai.expect(posts).deeply.eql(expectedDataFromDatabase);
 
-        sinon.assert.calledOnce(getAllPostServiceStub);
-
+      sinon.assert.calledOnce(getAllPostServiceStub);
     })
-
   })
 });

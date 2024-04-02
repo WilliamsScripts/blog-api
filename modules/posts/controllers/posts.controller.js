@@ -33,7 +33,7 @@ class postController {
     if (!post) {
       return notFound(res)
     }
-    return res.status(200).send('Post Deleted successfully')
+    return res.status(200).send('Post deleted successfully')
   }
 }
 

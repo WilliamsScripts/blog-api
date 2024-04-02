@@ -167,3 +167,214 @@
 {"level":"info","message":"Server running on 0.0.0.1:9000","service":"Blog API","timestamp":"2024-03-03 19:32:01 PM"}
 {"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-03-03 19:32:01 PM"}
 {"level":"info","message":"Shutting down server gracefully...","service":"Blog API","timestamp":"2024-03-03 22:29:18 PM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 06:17:49 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 06:17:49 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 06:18:58 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 06:18:58 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 06:19:05 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 06:19:05 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 06:19:09 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 06:19:09 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 06:33:37 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 06:33:37 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 06:33:52 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 06:33:52 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 06:33:55 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 06:33:55 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 06:33:59 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 06:33:59 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 06:36:14 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 06:36:14 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 08:16:49 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 08:16:49 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 08:16:59 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 08:16:59 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 08:17:22 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 08:17:22 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 08:17:38 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 08:17:38 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 08:17:44 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 08:17:44 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 08:17:50 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 08:17:50 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 08:18:21 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 08:18:21 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 08:18:36 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 08:18:36 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 08:18:51 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 08:18:51 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 08:19:03 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 08:19:03 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 08:19:06 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 08:19:06 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 08:19:07 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 08:19:07 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 08:19:09 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 08:19:09 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 08:19:15 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 08:19:15 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 08:20:20 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 08:20:20 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 08:21:16 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 08:21:16 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 08:21:26 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 08:21:26 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 08:21:40 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 08:21:40 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 08:21:44 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 08:21:44 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 08:22:12 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 08:22:12 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 08:22:12 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 08:22:13 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 08:22:48 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 08:22:48 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 08:22:49 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 08:22:49 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 08:22:55 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 08:22:55 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 08:23:09 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 08:23:09 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 08:25:42 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 08:25:42 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 08:26:18 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 08:26:18 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 08:26:25 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 08:26:26 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 08:26:32 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 08:26:32 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 08:27:22 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 08:27:22 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 08:27:26 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 08:27:26 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 08:28:05 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 08:28:05 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 08:28:17 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 08:28:17 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 08:28:35 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 08:28:35 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 08:30:11 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 08:30:11 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 08:30:17 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 08:30:17 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 08:30:24 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 08:30:24 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 08:31:47 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 08:31:47 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 08:31:51 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 08:31:51 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 08:31:53 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 08:31:53 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 08:32:02 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 08:32:02 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 08:38:06 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 08:38:06 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 08:39:06 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 08:39:06 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 08:40:14 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 08:40:14 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 08:40:40 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 08:40:40 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 08:40:56 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 08:40:56 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 08:41:12 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 08:41:12 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 08:41:12 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 08:41:12 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 08:42:07 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 08:42:07 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 08:43:55 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 08:43:55 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 08:44:15 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 08:44:15 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 08:46:01 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 08:46:01 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 08:46:05 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 08:46:05 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 08:47:40 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 08:47:40 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 08:49:28 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 08:49:28 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 08:49:47 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 08:49:47 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 08:50:11 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 08:50:11 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 08:51:18 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 08:51:18 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 08:57:32 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 08:57:32 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 08:57:44 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 08:57:44 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 08:57:46 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 08:57:46 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 08:57:47 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 08:57:47 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 08:57:48 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 08:57:48 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 09:00:19 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 09:00:19 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 09:01:17 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 09:01:17 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 09:08:31 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 09:08:31 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 09:08:42 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 09:08:42 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 09:08:57 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 09:08:57 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 09:09:08 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 09:09:08 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 09:09:19 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 09:09:19 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 09:09:25 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 09:09:25 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 09:09:28 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 09:09:28 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 09:09:42 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 09:09:42 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 09:11:12 AM"}
+{"level":"info","message":"Posts seeded successfully","service":"Blog API","timestamp":"2024-04-02 09:11:12 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 09:11:33 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 09:11:33 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 09:12:05 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 09:12:05 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 09:12:10 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 09:12:10 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 09:12:26 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 09:12:26 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 09:12:39 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 09:12:39 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 09:12:42 AM"}
+{"level":"info","message":"Posts seeded successfully","service":"Blog API","timestamp":"2024-04-02 09:12:42 AM"}
+{"level":"info","message":"Category seeded successfully","service":"Blog API","timestamp":"2024-04-02 09:12:42 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 09:21:45 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 09:21:45 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 09:21:46 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 09:21:46 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 09:34:00 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 09:34:00 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 09:34:01 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 09:34:01 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 09:34:54 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 09:34:54 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 09:35:16 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 09:35:16 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 09:35:19 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 09:35:19 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 09:35:36 AM"}
+{"level":"error","message":"Error while seeding posts:  Cannot read properties of undefined (reading '_id')","service":"Blog API","stack":"TypeError: Cannot read properties of undefined (reading '_id')\n    at /Users/williams/Private/backend/blog-api/modules/posts/seeders/posts.seeder.js:53:42\n    at Array.map (<anonymous>)\n    at seedDB (/Users/williams/Private/backend/blog-api/modules/posts/seeders/posts.seeder.js:51:45)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2024-04-02 09:35:36 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 09:36:06 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 09:36:06 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 09:36:10 AM"}
+{"level":"info","message":"Posts seeded successfully","service":"Blog API","timestamp":"2024-04-02 09:36:10 AM"}
+{"insertedDocs":[],"level":"error","message":"Error while seeding categories:  Client must be connected before running operations","service":"Blog API","stack":"MongoNotConnectedError: Client must be connected before running operations\n    at executeOperationAsync (/Users/williams/Private/backend/blog-api/node_modules/mongodb/lib/operations/execute_operation.js:23:19)\n    at /Users/williams/Private/backend/blog-api/node_modules/mongodb/lib/operations/execute_operation.js:12:45\n    at maybeCallback (/Users/williams/Private/backend/blog-api/node_modules/mongodb/lib/utils.js:270:21)\n    at executeOperation (/Users/williams/Private/backend/blog-api/node_modules/mongodb/lib/operations/execute_operation.js:12:38)\n    at Collection.insertMany (/Users/williams/Private/backend/blog-api/node_modules/mongodb/lib/collection.js:166:57)\n    at NativeCollection.<computed> [as insertMany] (/Users/williams/Private/backend/blog-api/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:244:33)\n    at /Users/williams/Private/backend/blog-api/node_modules/mongoose/lib/model.js:3228:25\n    at /Users/williams/Private/backend/blog-api/node_modules/mongoose/lib/helpers/parallelLimit.js:49:16\n    at /Users/williams/Private/backend/blog-api/node_modules/mongoose/lib/model.js:3158:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2024-04-02 09:36:10 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 09:47:25 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 09:47:25 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 09:47:31 AM"}
+{"level":"info","message":"Posts seeded successfully","service":"Blog API","timestamp":"2024-04-02 09:47:31 AM"}
+{"level":"info","message":"Category seeded successfully","service":"Blog API","timestamp":"2024-04-02 09:47:31 AM"}
+{"level":"info","message":"Server running on 0.0.0.1:9900","service":"Blog API","timestamp":"2024-04-02 09:48:05 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 09:48:05 AM"}
+{"level":"info","message":"MONGO CONNECTION OPEN!!!.","service":"Blog API","timestamp":"2024-04-02 10:06:16 AM"}
+{"level":"info","message":"Posts seeded successfully","service":"Blog API","timestamp":"2024-04-02 10:06:16 AM"}
+{"level":"info","message":"Category seeded successfully","service":"Blog API","timestamp":"2024-04-02 10:06:16 AM"}
+{"level":"info","message":"Shutting down server gracefully...","service":"Blog API","timestamp":"2024-04-02 10:08:53 AM"}

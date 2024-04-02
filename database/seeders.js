@@ -1,6 +1,7 @@
 require('dotenv/config');
 const mongoose = require('mongoose')
 const postsSeeder = require('../modules/posts/seeders/posts.seeder')
+const categoriesSeeder = require('../modules/categories/seeders/category.seeder')
 const db_connection = require('./db_connection');
 const logger = require('../helpers/logger');
 const winston = require('winston');
@@ -11,6 +12,7 @@ const initialize = async () => {
     db_connection()
     logger()
     await postsSeeder();
+    await categoriesSeeder();
     await mongoose.connection.close();
     process.exit(0);
   } catch (error) {

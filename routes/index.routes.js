@@ -1,4 +1,6 @@
 const postRoutes = require('../modules/posts/routes/post.routes')
+const categoryRoutes = require('../modules/categories/routes/category.routes')
+const notFound = require('../helpers/notFound')
 
 module.exports = (app) => {
   app.get('/', (req, res) => {
@@ -14,4 +16,9 @@ module.exports = (app) => {
   })
 
   app.use('/posts', postRoutes);
+  app.use('/categories', categoryRoutes)
+
+  app.all('*', (req, res) =>
+    notFound(res)
+  );
 }

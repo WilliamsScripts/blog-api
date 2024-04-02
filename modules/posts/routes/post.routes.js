@@ -5,14 +5,9 @@ const postSchema = require('../schemas/post.schema');
 const postController = require('../controllers/posts.controller');
 const tryCatchWrapper = require('../../../helpers/tryCatchWrapper');
 
-// router.get('/', function(req, res){
-//   return res.status(200).json({message: "Welcome"})
-// })
-
-
-
 
 router.get('/', tryCatchWrapper(postController.list));
+
 router.get('/:id', tryCatchWrapper(postController.show))
 
 router.post('/', validationMiddleware(postSchema), tryCatchWrapper(postController.store))
